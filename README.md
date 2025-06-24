@@ -7,11 +7,11 @@
 <img src="images/image-2.png" width="100">
 
 ## Team Members
-- ***Bahar Arın*** - ROL
-- ***Kübra Hande Çendik*** - ROL
+- ***Bahar Arın*** - ROL/Data Scientist/Product Owner
+- ***Kübra Hande Çendik*** - ROL/Data Scientist/Product Owner
 - ***Mustafa Said Güngör*** - Scrum Master
-- ***Mehmet Efe Afşar*** - ROL
-<!-- - ***Pınar Güzel*** - ROL -->
+- ***Mehmet Efe Afşar*** - ROL/AI Specialist/Web Developer/Product Owner
+<!-- - ***Pınar Güzel*** - ROL/AI Specialist/Web Developer/Product Owner -->
 
 ## Product Name
 Product Name
