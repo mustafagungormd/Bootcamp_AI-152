@@ -3,7 +3,6 @@
 </p>
 
 
-<!--
 ## Team Name
 <img src="images/image-2.png" width="100">
 
@@ -13,34 +12,10 @@
 - ***Mustafa Said Güngör*** - Scrum Master
 - ***Mehmet Efe Afşar*** - ROL
 <!-- - ***Pınar Güzel*** - ROL -->
-<!--
+
 ## Product Name
 Product Name
--->
-<div style="display: flex; justify-content: space-between; gap: 40px;">
 
-  <div>
-    <h2>Team Name</h2>
-    <img src="images/image-2.png" width="100">
-  </div>
-
-  <div>
-    <h2>Team Members</h2>
-    <ul>
-      <li><strong>Bahar Arın</strong> - ROL/Data Scientist/Product Owner</li>
-      <li><strong>Kübra Hande Çendik</strong> - ROL/Data Scientist/Product Owner</li>
-      <li><strong>Mustafa Said Güngör</strong> - Scrum Master</li>
-      <li><strong>Mehmet Efe Afşar</strong> - ROL/AI Specialist/Web Developer/Product Owner</li>
-      <!-- <li><strong>Pınar Güzel</strong> - ROL/AI Specialist/Web Developer/Product Owner</li> -->
-    </ul>
-  </div>
-
-  <div>
-    <h2>Product Name</h2>
-    <p>Product Name</p>
-  </div>
-
-</div>
 
 ## Product Backlog List
 - [AI 152 Trello Sprint Board - 1](https://trello.com/b/QcRPIhZZ/1-sprint)
