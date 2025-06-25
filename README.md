@@ -23,7 +23,7 @@ Product Name
 - [AI 152 Trello Sprint Board - 3](https://trello.com/b/xcPH4JYu/3-sprint)
 
 ## Product Description
-aaa
+
 
 ## Product Features
 - 
@@ -53,14 +53,14 @@ aaa
 <!--  - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points. -->
 
 ### **Sprint 1 Notes**
-- aaaa
-- aaaa <br>
+- 
+-  <br>
 
   **To Do List:**
-- bbb
-- bbb
-- bbb
-- bbb
+- 
+- 
+- 
+- 
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
@@ -85,35 +85,35 @@ aaa
 
   
 ### **Development Progress**
-* aaa
+* 
 
-   | ![Dev Gif or Image](images/image-9.png) | ![Dev Gif or Image](images/image-10.png) |
+   | ![Dev Gif or Image](images/image-8.png) | ![Dev Gif or Image](images/image-9.png) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                        |
+   |                         |                         |
 
-* bbb
+* 
 
-   | ![Dev Gif or Image](images/image-11.png) | ![Dev Gif or Image](images/image-12.png) |
+   | ![Dev Gif or Image](images/image-10.png) | ![Dev Gif or Image](images/image-11.png) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                         |
+   |                         |                          |
 
-* aaa
+* 
+
+   | ![Dev Gif or Image](images/image-12.png) |
+   |:---------------------------------:|
+   |                        |
+
+* 
 
    | ![Dev Gif or Image](images/image-13.png) |
    |:---------------------------------:|
-   | aaa                       |
+   |                         |
 
-* aaa
+* 
 
    | ![Dev Gif or Image](images/image-14.png) |
    |:---------------------------------:|
-   | aaa                        |
-
-* aaa
-
-   | ![Dev Gif or Image](images/image-15.png) |
-   |:---------------------------------:|
-   | aaa                         |
+   |                          |
 
 
  ### **Sprint Review**
