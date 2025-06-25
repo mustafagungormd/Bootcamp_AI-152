@@ -112,7 +112,8 @@ aaa
 * aaa
 
    | ![Dev Gif or Image](images/image-15.png) |
-   |:aaa                         |
+   |:---------------------------------:|
+   | aaa                         |
 
 
  ### **Sprint Review**
