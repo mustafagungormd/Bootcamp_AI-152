@@ -186,7 +186,7 @@ Sprint Review participants:
 
    | ![Dev Gif or Image](images/image-27.png) | 
    |:---------------------------------:|
-   | Dev Gif or Image                       |
+   | aaa                       |
 
 * aaa
 
