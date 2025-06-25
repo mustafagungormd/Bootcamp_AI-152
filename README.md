@@ -87,13 +87,13 @@ aaa
 ### **Development Progress**
 * aaa
 
-   | ![Dev Gif or Image](images/image-9.gif) | ![Dev Gif or Image](images/image-10.gif) |
+   | ![Dev Gif or Image](images/image-9.png) | ![Dev Gif or Image](images/image-10.png) |
    |:---------------------------------:|:-----------------------------------:|
    | aaa                        | bbb                        |
 
 * bbb
 
-   | ![Dev Gif or Image](images/image-11.gif) | ![Dev Gif or Image](images/image-12.gif) |
+   | ![Dev Gif or Image](images/image-11.png) | ![Dev Gif or Image](images/image-12.png) |
    |:---------------------------------:|:-----------------------------------:|
    | aaa                        | bbb                         |
 
@@ -166,13 +166,13 @@ Sprint Review participants:
 ### **Development Progress**
 * aaa
 
-   | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
+   | ![Dev Gif or Image](images/image-22.png) | ![Dev Gif or Image](images/image-23.png) |
    |:---------------------------------:|:-----------------------------------:|
    | aaa                      | bbb                       |
 
 * aaa
 
-   | ![Dev Gif or Image](images/image-24.gif) | ![Dev Gif or Image](images/image-25.gif) |
+   | ![Dev Gif or Image](images/image-24.png) | ![Dev Gif or Image](images/image-25.png) |
    |:---------------------------------:|:-----------------------------------:|
    | aaa                       | bbb                      |
 
@@ -184,7 +184,7 @@ Sprint Review participants:
 
 * aaa
 
-   | ![Dev Gif or Image](images/image-27.gif) | 
+   | ![Dev Gif or Image](images/image-27.png) | 
    |:---------------------------------:|
    | Dev Gif or Image                       |
 
