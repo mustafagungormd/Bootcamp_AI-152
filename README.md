@@ -11,7 +11,7 @@
 - ***Kübra Hande Çendik*** - ROL/Data Scientist/Product Owner
 - ***Mustafa Said Güngör*** - Scrum Master
 - ***Mehmet Efe Afşar*** - ROL/AI Specialist/Web Developer/Product Owner
-<!-- - ***Pınar Güzel*** - ROL/AI Specialist/Web Developer/Product Owner -->
+- ***Pınar Güzel*** - ROL/AI Specialist/Web Developer/Product Owner
 
 ## Product Name
 Product Name
@@ -49,8 +49,8 @@ aaa
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-- It has been decided that the score evaluation for the sprint will be 20.
-- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points.
+<!--  - It has been decided that the score evaluation for the sprint will be 20. -->
+<!--  - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points. -->
 
 ### **Sprint 1 Notes**
 - aaaa
@@ -117,14 +117,14 @@ aaa
 
 
  ### **Sprint Review**
-- At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed. 
+<!--  - At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed. -->
 Sprint Review participants:
 
 
 
 
  ### **Sprint Retrospective**
-- The score for Sprint 1 is 20.
+<!-- - The score for Sprint 1 is 20. -->
 
 
 ---
