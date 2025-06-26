@@ -8,10 +8,10 @@
 
 ## Team Members
 - ***Bahar Arın*** - ROL/Data Scientist/Product Owner
-- ***Kübra Hande Çendik*** - ROL/Data Scientist/Product Owner
+- ***Kübra Hande Çendik*** - Data Scientist
 - ***Mustafa Said Güngör*** - Scrum Master
-- ***Mehmet Efe Afşar*** - ROL/AI Specialist/Web Developer/Product Owner
-- ***Pınar Güzel*** - ROL/AI Specialist/Web Developer/Product Owner
+- ***Mehmet Efe Afşar*** - Product Owner
+- ***Pınar Güzel*** - AI Specialist/Web Developer
 
 ## Product Name
 Product Name
