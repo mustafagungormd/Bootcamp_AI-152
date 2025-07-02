@@ -3,43 +3,43 @@
 </p>
 
 
-## Team Name
+## Takım İsmi
 <img src="images/image-2.png" width="100">
 
-## Team Members
+## Takım Üyeleri
 - ***Bahar Arın*** - ROL/Data Scientist/Product Owner
 - ***Kübra Hande Çendik*** - Data Scientist
 - ***Mustafa Said Güngör*** - Scrum Master
 - ***Mehmet Efe Afşar*** - Product Owner
 - ***Pınar Güzel*** - AI Specialist/Web Developer
 
-## Product Name
-Product Name
+## Ürün İsmi
+GOAT COACH
 
 
-## Product Backlog List
+## Ürün Backlog Listesi
 - [AI 152 Trello Sprint Board - 1](https://trello.com/b/QcRPIhZZ/1-sprint)
 - [AI 152 Trello Sprint Board - 2](https://trello.com/b/wnCAaBHt/2-sprint)
 - [AI 152 Trello Sprint Board - 3](https://trello.com/b/xcPH4JYu/3-sprint)
 
-## Product Description
+## Ürün Açıklaması
 
 
-## Product Features
+## Ürün Özellikleri
 - 
 - 
-- 
-- 
-- 
-- 
-
-## Target Group
 - 
 - 
 - 
 - 
 
-## Links
+## Hedef Kitle
+- 
+- 
+- 
+- 
+
+## Linkler
 - [Check Out Our Product](https://github.com/mustafagungormd/Bootcamp_AI-152)
 - [Watch Trailer on Youtube](https://www.youtube.com/watch?v=LpNVf8sczqU)
 
@@ -52,11 +52,11 @@ Product Name
 <!--  - It has been decided that the score evaluation for the sprint will be 20. -->
 <!--  - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points. -->
 
-### **Sprint 1 Notes**
+### **Sprint 1 Notları**
 - 
 -  <br>
 
-  **To Do List:**
+  **Yapılanlar:**
 - 
 - 
 - 
@@ -84,7 +84,7 @@ Product Name
    | Trello meeting logs                        |
 
   
-### **Development Progress**
+### **Geliştirme Süreci**
 * 
 
    | ![Dev Gif or Image](images/image-8.png) | ![Dev Gif or Image](images/image-9.png) |
@@ -117,14 +117,14 @@ Product Name
 
 
  ### **Sprint Review**
-<!--  - At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed. -->
+<!--  - Sprint 1’in sonunda, ekip bir araya geldi ve Sprint gözden geçirildi. Planlanan tüm görevler tamamlandı. -->
 Sprint Review participants:
 
 
 
 
  ### **Sprint Retrospective**
-<!-- - The score for Sprint 1 is 20. -->
+<!-- - Sprint 1 sonunda ulaşılan skor 20 puan -->
 
 
 ---
