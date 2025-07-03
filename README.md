@@ -7,11 +7,11 @@
 <img src="images/image-2.png" width="100">
 
 ## Takım Üyeleri
-- ***Bahar Arın*** - ROL/Data Scientist/Product Owner
+- ***Bahar Arın*** - Data Scientist
 - ***Kübra Hande Çendik*** - Data Scientist
 - ***Mustafa Said Güngör*** - Scrum Master
 - ***Mehmet Efe Afşar*** - Product Owner
-- ***Pınar Güzel*** - AI Specialist/Web Developer
+- ***Pınar Güzel*** - AI Specialist
 
 ## Ürün İsmi
 GOAT COACH
