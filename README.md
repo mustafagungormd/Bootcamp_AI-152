@@ -55,11 +55,11 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Ürünün temel özellikleri ve geliştirme sürecinin genel adımları belirlendi.
 - Takımın görev dağılımı yapıldı. <br>
 
-  **Yapılanlar:**
-- Ürünümüz için geliştirilecek web sitesi tasarımının ana hatları belirlendi
-- Siteye giriş için oturum açma sistemi yazıldı
-- Sınav Koçu için yapay zeka altyapısı hazırlandı
-- Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturuldu
+  **Yapılacaklar:**
+- Ürünümüz için geliştirilecek web sitesi tasarımının ana hatları belirlenecek
+- Siteye giriş için oturum açma sistemi yazılacak
+- Sınav Koçu için yapay zeka altyapısı hazırlanacak
+- Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturulacak
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
@@ -116,14 +116,17 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
  ### **Sprint Review**
-<!--  - Sprint 1’in sonunda, ekip bir araya geldi ve Sprint gözden geçirildi. Planlanan tüm görevler tamamlandı. -->
-Sprint Review participants:
+- Sprint 1’in sonunda, ekip bir araya geldi ve Sprint gözden geçirildi. Planlanan tüm görevler tamamlandı.
+Sprint Review participants: Bahar Arın, Kübra Hande Çendik, Mustafa Said Güngör, Mehmet Efe Afşar
 
 
 
 
  ### **Sprint Retrospective**
-<!-- - Sprint 1 sonunda ulaşılan skor 20 puan -->
+- Sprint 1 sonunda ulaşılan skor 20 puan oldu.
+- Oturum açma sistemi altyapısı hazırlandı.
+- Sınav Koçu için yapay zeka altyapısı hazırlandı.
+- Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturuldu.
 
 
 ---
