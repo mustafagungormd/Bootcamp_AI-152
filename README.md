@@ -62,7 +62,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturulacak
 
 ### **Sprint 1 Board**
-   | ![Sprint Board 1](images/image-7.png) |
+   | ![Sprint Board 1](images/image-4.png) |
    |:---------------------------------:|
    | Sprint 1 board                         |
 
@@ -78,7 +78,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    |:---------------------------------:|
    | Google Meet toplantı kayıtları                       |
 
-   | ![Trello](images/image-4.png) |
+   | ![Trello](images/image-7.png) |
    |:---------------------------------:|
    | Trello toplantı kayıtları                        |
 
