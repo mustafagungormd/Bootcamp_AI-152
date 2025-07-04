@@ -23,21 +23,19 @@ GOAT COACH
 - [AI 152 Trello Sprint Board - 3](https://trello.com/b/xcPH4JYu/3-sprint)
 
 ## Ürün Açıklaması
-
+Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunmak amacıyla geliştirilen bu dijital asistan, her yaştan öğrenci ve bireyin potansiyelini en verimli şekilde ortaya çıkarmasını hedefliyor. Üç modülden oluşan bu araç; bireyin ilgi ve yeteneklerini analiz ederek en uygun kariyer yollarını öneren Kariyer Koçu, sınavlara hazırlık sürecini öğrencinin seviyesine göre optimize eden Sınav Koçu ve bir konunun etkili biçimde nasıl çalışılması gerektiğini kişiye özel planlayan Konu Koçu ile bütünsel bir rehberlik sunar. Web tabanlı yapısıyla her yerden erişilebilir olan bu platform, bireylerin hem akademik hem de kariyer alanında bilinçli ve hedef odaklı ilerlemesini sağlar.
 
 ## Ürün Özellikleri
-- 
-- 
-- 
-- 
-- 
-- 
+- Web tabanlı
+- Her cihazdan erişim imkânı
+- Yaşa ve seviyeye göre uyarlanabilir dinamik içerik
+- Yapay zeka destekli gelizmiş rehberlik ve akıllı planlama desteği
 
 ## Hedef Kitle
-- 
-- 
-- 
-- 
+- İlköğretim ve ortaokul öğrencileri 
+- Lise öğrencileri
+- Üniversite öğrencileri
+- Veliler ve eğitim danışmanları
 
 ## Linkler
 - [Check Out Our Product](https://github.com/mustafagungormd/Bootcamp_AI-152)
@@ -49,8 +47,8 @@ GOAT COACH
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-<!--  - It has been decided that the score evaluation for the sprint will be 20. -->
-<!--  - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points. -->
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam backlog puanı 30 olarak belirlendi. İlk sprint için puan değerlendirmesinin 10 üzerinden yapılmasına karar verildi.
+- İlk sprint için tamamlanması gereken puan 10 üzerinden 10 puan alınarak hedefe ulaşıldı.
 
 ### **Sprint 1 Notları**
 - 
