@@ -62,31 +62,31 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturulacak
 
 ### **Sprint 1 Board**
-   | ![Sprint Board 1](images/image-4.png) |
+   | ![Sprint Board 1](images/image-7.png) |
    |:---------------------------------:|
    | Sprint 1 board                         |
 
 ### **Daily Scrum**
 
-* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+* Günlük scrum toplantıları WhatsApp ve Google Meet üzerinden yapıldı. Google Meet toplantı notları, Trello'daki "Meeting Logs" listesine kartlar olarak eklendi.
 
    | ![WhatsApp](images/image-5.png) |
    |:---------------------------------:|
-   | WhatsApp meeting logs                        |
+   | WhatsApp toplantı kayıtları                        |
 
    | ![Google Meet](images/image-6.png) |
    |:---------------------------------:|
-   | Google Meet meeting logs                        |
+   | Google Meet toplantı kayıtları                       |
 
-   | ![Trello](images/image-7.png) |
+   | ![Trello](images/image-4.png) |
    |:---------------------------------:|
-   | Trello meeting logs                        |
+   | Trello toplantı kayıtları                        |
 
   
 ### **Geliştirme Süreci**
 * 
 
-   | ![Dev Gif or Image](images/image-8.png) | ![Dev Gif or Image](images/image-9.png) |
+   | ![Dev Gif or Image](images/image-8.gif) | ![Dev Gif or Image](images/image-9.png) |
    |:---------------------------------:|:-----------------------------------:|
    |                         |                         |
 
