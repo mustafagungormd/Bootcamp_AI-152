@@ -51,14 +51,15 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - İlk sprint için tamamlanması gereken puan 10 üzerinden 10 puan alınarak hedefe ulaşıldı.
 
 ### **Sprint 1 Notları**
-- 
--  <br>
+- Bu sprintte geliştireceğimiz ürüne karar vermek için ekipçe beyin fırtınası yapıldı ve ürüne karar verildi.
+- Ürünün temel özellikleri ve geliştirme sürecinin genel adımları belirlendi.
+- Takımın görev dağılımı yapıldı. <br>
 
   **Yapılanlar:**
-- 
-- 
-- 
-- 
+- Ürünümüz için geliştirilecek web sitesi tasarımının ana hatları belirlendi
+- Siteye giriş için oturum açma sistemi yazıldı
+- Sınav Koçu için yapay zeka altyapısı hazırlandı
+- Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturuldu
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
