@@ -47,7 +47,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam backlog puanı 30 olarak belirlendi. İlk sprint için puan değerlendirmesinin 10 üzerinden yapılmasına karar verildi.
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam backlog puanı 30 olarak belirlendi. İlk sprint için puan değerlendirmesinin 10 üzerinden yapılmasına karar verildi. Sprintteki her görevin puanı 1 puan olarak belirlendi. 
 - İlk sprint için tamamlanması gereken puan 10 üzerinden 10 puan alınarak hedefe ulaşıldı.
 
 ### **Sprint 1 Notları**
