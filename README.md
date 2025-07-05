@@ -90,11 +90,11 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    |:---------------------------------:|:-----------------------------------:|
    | Otorizasyon Altyapısı                        | Ana AI Algoritması                        |
 
-* 
+* Web sayfasının tasarımına başlandı ve ana sayfa tasarımı tamamlandı.
 
    | ![Dev Gif or Image](images/image-10.png) |
    |:---------------------------------:|
-   |                        |
+   | Ana Sayfa                       |
 
 
  ### **Sprint Review**
