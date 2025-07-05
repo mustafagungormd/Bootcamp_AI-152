@@ -123,7 +123,7 @@ Sprint Review participants: Bahar Arın, Kübra Hande Çendik, Mustafa Said Gün
 
 
  ### **Sprint Retrospective**
-- Sprint 1 sonunda ulaşılan skor 20 puan oldu.
+- Sprint 1 sonunda ulaşılan skor 10 puan oldu.
 - Oturum açma sistemi altyapısı hazırlandı.
 - Sınav Koçu için yapay zeka altyapısı hazırlandı.
 - Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturuldu.
