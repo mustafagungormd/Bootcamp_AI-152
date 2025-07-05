@@ -29,7 +29,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Web tabanlı
 - Her cihazdan erişim imkânı
 - Yaşa ve seviyeye göre uyarlanabilir dinamik içerik
-- Yapay zeka destekli gelizmiş rehberlik ve akıllı planlama desteği
+- Yapay zeka destekli gelişmiş rehberlik ve akıllı planlama desteği
 
 ## Hedef Kitle
 - İlköğretim ve ortaokul öğrencileri 
