@@ -88,7 +88,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
    | ![Dev Gif or Image](images/image-8.gif) | ![Dev Gif or Image](images/image-9.png) |
    |:---------------------------------:|:-----------------------------------:|
-   |                         |                         |
+   | Otorizasyon işlemlerinin altyapısı                        |                         |
 
 * 
 
