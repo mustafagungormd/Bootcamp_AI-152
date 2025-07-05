@@ -84,15 +84,15 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
   
 ### **Geliştirme Süreci**
-* Siteye giriş için oturum açma özelliğinin altyapısı hazırlandı.
+* Siteye giriş için oturum açma özelliğinin altyapısı hazırlandı ve yapay zekanın ana algoritması yazıldı.
 
    | ![Dev Gif or Image](images/image-8.gif) | ![Dev Gif or Image](images/image-9.png) |
    |:---------------------------------:|:-----------------------------------:|
-   | Otorizasyon işlemlerinin altyapısı                        |                         |
+   | Otorizasyon Altyapısı                        | Ana AI Algoritması                        |
 
 * 
 
-   | ![Dev Gif or Image](images/image-12.png) |
+   | ![Dev Gif or Image](images/image-10.png) |
    |:---------------------------------:|
    |                        |
 
