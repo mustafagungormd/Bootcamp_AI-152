@@ -92,27 +92,9 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 * 
 
-   | ![Dev Gif or Image](images/image-10.png) | ![Dev Gif or Image](images/image-11.png) |
-   |:---------------------------------:|:-----------------------------------:|
-   |                         |                          |
-
-* 
-
    | ![Dev Gif or Image](images/image-12.png) |
    |:---------------------------------:|
    |                        |
-
-* 
-
-   | ![Dev Gif or Image](images/image-13.png) |
-   |:---------------------------------:|
-   |                         |
-
-* 
-
-   | ![Dev Gif or Image](images/image-14.png) |
-   |:---------------------------------:|
-   |                          |
 
 
  ### **Sprint Review**
