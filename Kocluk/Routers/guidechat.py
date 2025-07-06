@@ -56,8 +56,7 @@ ai_platform = Gemini(api_key=gemini_api_key, system_prompt=system_prompt)
 
 
 class ChatRequest(BaseModel):
-    title: str
-    body_text: str
+    prompt: str
 
 
 class ChatResponse(BaseModel):
@@ -111,7 +110,7 @@ async def render_chat_bar(request: Request, db: db_dependency):
         return redirect_to_login()
 
 
-@router.post("/", response_model=ChatResponse)
+@router.post("/Chat", response_model=ChatResponse)
 async def create_chat_request(user: user_dependency, db: db_dependency, chat_request: ChatRequest,
                               user_id: int = Depends(get_user_identifier)):
     if user is None:
@@ -126,13 +125,11 @@ async def create_chat_request(user: user_dependency, db: db_dependency, chat_req
     body_text = await body_text_get(response_text)
     title_text = await title_get(response_text)
 
-    if not (len(technique_text) == len(time_text) == len(explanation_text)):
-        raise HTTPException(500, "Parser returned mismatched lengths")
 
     chat = Chat(
-        chat_title=title_text.group(1),
-        body_text=body_text.group(1),
-        owner_id=user.id,
+        chat_title=title_text.group(0),
+        body_text=body_text.group(0),
+        owner_id=user.get('id')
     )
 
     # attach children AFTER creation (or use techniques=[...] here)

@@ -1,7 +1,7 @@
 from pyasn1.compat import integer
 from datetime import datetime
 from database import Base
-from sqlalchemy import Boolean, Column, DateTime, ForeignKey, Integer, String, Text, Index
+from sqlalchemy import Boolean, Column, DateTime, ForeignKey, Integer, String, Text, Index, func
 from sqlalchemy.orm import declarative_base, Mapped, mapped_column, relationship
 from sqlalchemy.ext.mutable import MutableDict   # tracks in-place changes
 
@@ -13,7 +13,7 @@ class Chat(Base):
     id = Column(Integer, primary_key=True, index=True)
     chat_title = Column(String)
     body_text = Column(Text)
-    created_at = Column(DateTime, default=datetime)
+    created_at = Column(DateTime(timezone=True),server_default=func.now())
     owner_id = Column(Integer, ForeignKey('users.id'))
     techniques = relationship(
         "Technique",
@@ -42,5 +42,5 @@ class User(Base):
     first_name = Column(String, nullable=False)
     last_name = Column(String, nullable=False)
     hashed_password = Column(String, nullable=False)
-    created_at  = Column(DateTime, default=datetime)
     is_admin = Column(Boolean, default=False)
+    created_at  = Column(DateTime(timezone=True),server_default=func.now())

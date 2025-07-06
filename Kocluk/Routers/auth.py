@@ -35,7 +35,7 @@ def get_db():
 db_dependency = Annotated[Session, Depends(get_db)]
 
 bcrypt_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
-oauth2_bearer = OAuth2PasswordBearer(tokenUrl="/auth/token")
+oauth2_bearer = OAuth2PasswordBearer(tokenUrl="/auth/login")
 
 class CreateUserRequest(BaseModel):
     username: str = Field(min_length=3, max_length=128)
@@ -43,7 +43,6 @@ class CreateUserRequest(BaseModel):
     first_Name: str
     last_Name: str
     password: str
-    is_admin: bool
 
 class Token(BaseModel):
     access_token: str
@@ -91,9 +90,10 @@ async def get_user_identifier(token: Annotated[str, Depends(oauth2_bearer)]):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,detail="Not authenticated")
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+        username: str = payload.get('sub')
         user_id: int = payload.get('id')
-        if user_id is None:
-            raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,detail="Not authenticated")
+        if username is None or user_id is None:
+            raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Not authenticated")
     except JWTError:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,detail="Not authenticated")
     return user_id
@@ -105,7 +105,6 @@ async def create_user(db: db_dependency, create_user_request: CreateUserRequest)
         email=create_user_request.email.lower(),
         first_name=create_user_request.first_Name,
         last_name=create_user_request.last_Name,
-        is_admin=create_user_request.is_admin,
         hashed_password=bcrypt_context.hash(create_user_request.password)
     )
     db.add(user)
