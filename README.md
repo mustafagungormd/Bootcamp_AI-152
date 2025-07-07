@@ -117,3 +117,96 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
 ---
+# **SPRINT 2**
+
+   | ![Sprint 2](images/image-11.png) |
+   |:---------------------------------:|
+
+- 
+
+### **Sprint 2 Notes**
+- Yapılacak görevler belirlendi. <br>
+
+  **To Do List:**
+- aaa
+
+### **Sprint 2 Board**
+   | ![Sprint Board 2](images/image-12.png) |
+   |:---------------------------------:|
+   | Sprint 2 board                         |
+
+### **Daily Scrum**
+
+* aaa
+
+   | ![WhatsApp](images/image-13.png) |
+   |:---------------------------------:|
+   | WhatsApp meeting logs                        |
+
+   | ![Google Meet](images/image-14.png) |
+   |:---------------------------------:|
+   | Google Meet meeting logs                        |
+
+   | ![Trello](images/image-15.png) |
+   |:---------------------------------:|
+   | Trello meeting logs                        |
+
+  
+### **Development Progress**
+* aaa
+
+   | ![Dev Gif or Image](images/image-16.gif) | ![Dev Gif or Image](images/image-17.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   | aaa                      | bbb                       |
+
+* aaa
+
+   | ![Dev Gif or Image](images/image-18.gif) | ![Dev Gif or Image](images/image-19.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   | aaa                       | bbb                      |
+
+* aaa
+
+   | ![Dev Gif or Image](images/image-20.png) |
+   |:---------------------------------:|
+   | aaa                        |
+
+* aaa
+
+   | ![Dev Gif or Image](images/image-21.gif) | 
+   |:---------------------------------:|
+   | Dev Gif or Image                       |
+
+* aaa
+
+   | ![Dev Gif or Image](images/image-22.png) |
+   |:---------------------------------:|
+   | aaa                       |
+
+   | ![Dev Gif or Image](images/image-23.png) |
+   |:---------------------------------:|
+   | aaa                       |
+
+   | ![Dev Gif or Image](images/image-24.png) |
+   |:---------------------------------:|
+   | aaa                       |
+
+* aaa
+
+   | ![Dev Gif or Image](images/image-25.png) |
+   |:---------------------------------:|
+   | aaa                      |
+
+
+ ### **Sprint Review**
+- aaa
+Sprint Review participants:
+
+
+
+
+ ### **Sprint Retrospective**
+- aaa
+
+
+---
