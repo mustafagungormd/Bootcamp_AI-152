@@ -103,7 +103,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Gelecek sprint için yapılacak şeylerin kaba planlamaları yapıldı.
 - Sonraki sprint için başlanmış olan görevlerin ilerleyişi değerlendirildi.
 - Sprint1'de tahmini tamamlama süresi beklenenden uzun süren görevlerle karşılaşıldığı tespit edildi.
-- 2. sprintteki görevlere ayrılacak tahmini tamamlama sürelerinin gerçekçi şekilde belirlenmesi için gereken tedbirlerin alınmasına karar verildi.
+- Gelecek sprintteki görevlere ayrılacak tahmini tamamlama sürelerinin gerçekçi şekilde belirlenmesi gerektiğine karar verildi.
 
   **Sprint Review participants:** Bahar Arın, Kübra Hande Çendik, Mustafa Said Güngör, Mehmet Efe Afşar
 
