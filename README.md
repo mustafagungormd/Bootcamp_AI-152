@@ -153,11 +153,11 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
   
 ### **Development Progress**
-* aaa
+* Yapay zeka asistanın chat arayüzü tasarlandı ve ana sayfa tasarımı geliştirildi.
 
    | ![Dev Gif or Image](images/image-16.gif) | ![Dev Gif or Image](images/image-17.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                      | bbb                       |
+   | AI Chat Arayüzü                      | Yenilenmiş Anasayfa                       |
 
 * aaa
 
