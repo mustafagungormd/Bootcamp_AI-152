@@ -110,7 +110,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
  ### **Sprint Retrospective**
-- Sprint 1 sonunda ulaşılan skor 10 puan oldu.
+- Sprint 1 sonunda ulaşılan skor 10/10 oldu.
 - Oturum açma sistemi altyapısı hazırlandı.
 - Sınav Koçu için yapay zeka altyapısı hazırlandı.
 - Sınav Koçu için gereken paramatreler belirlenip veri setleri oluşturuldu.
@@ -207,14 +207,22 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
  ### **Sprint Review**
-- aaa
-Sprint Review participants:
+- Sprint 2’in sonunda, ekip bir araya geldi ve Sprint gözden geçirildi.
+- Planlanan tüm görevler tamamlandı.
+- Tamamlanarak çalışır hale getirilen bütün sistemler toplantı esnasında ekipçe incelendi ve olası düzeltmeler, hatalar ve eklemeler için gerekli notlar alındı.
+- Son sprintte yapılması gereken şeylerin planlaması yapıldı.
+- Projemizin genel ilerleyişi ve sonraki sprint için başlanmış olan görevlerin ilerleyişi değerlendirildi.
+- **Sprint Review participants:** Bahar Arın, Kübra Hande Çendik, Mustafa Said Güngör, Mehmet Efe Afşar
 
 
 
 
  ### **Sprint Retrospective**
-- aaa
+- Sprint 2 sonunda ulaşılan skor 8/8 oldu.
+- Web sayfası lokalde çalşır hale getirildi
+- Oturum açma sayfası ve altyapısı bağlandı.
+- Chat sayfası hazırlandı ve yapay zekabağlantısı sağlandı.
+- Kariyer Koçu için kullanılacak sorular belirlendi. 
 
 
 ---
