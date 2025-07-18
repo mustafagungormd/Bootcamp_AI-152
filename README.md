@@ -131,7 +131,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Web sayfamızın temel bağlantıları yapıalrak lokalde çalışır hale getirildi.
 - Üçüncü sprint için faaliyet planı yapıldı. <br>
 
-  **To Do List:**
+  **Yapılacaklar:**
 - Web sayfasının tasarımı tamamlanacak
 - Chat sayfası tasarlanacak
 - Log in/Sign in sayfası tasarlanacak
