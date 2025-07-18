@@ -12,11 +12,6 @@
    | Bahar Arın                        | Kübra Hande Çendik                        | Mustafa Said Güngör                        | Mehmet Efe Afşar                        |
    | Data Scientist & Web Developer                        | Data Scientist                        | Scrum Master & Web Developer                        | Product Owner & AI Specialist                        |
 
-- ***Bahar Arın*** - Data Scientist
-- ***Kübra Hande Çendik*** - Data Scientist
-- ***Mustafa Said Güngör*** - Scrum Master
-- ***Mehmet Efe Afşar*** - Product Owner
-- ***Pınar Güzel*** - AI Specialist
 
 ## Ürün İsmi
 GOAT COACH
