@@ -122,7 +122,8 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    | ![Sprint 2](images/image-11.png) |
    |:---------------------------------:|
 
-- 
+- Puan tamamlama mantığı: 2. sprint için toplam puanın 8 olmasına karar verildi. Sprintteki her görevin puanı 1 olarak belirlendi.
+- İkinci sprintin sonunda tamamlanması gereken bütün görevler tamamlanarak 8 puan üzerinden 8 puan alınmış ve hedefe ulaşılmıştır.
 
 ### **Sprint 2 Notes**
 - Yapılacak görevler belirlendi. <br>
