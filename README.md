@@ -7,7 +7,7 @@
 <img src="images/image-2.png" width="100">
 
 ## Takım Üyeleri
-   | ![Dev Gif or Image](images/p_image-1.jng) | ![Dev Gif or Image](images/p_image-2.jng) | ![Dev Gif or Image](images/p_image-3.jng) | ![Dev Gif or Image](images/p_image-4.jng) |
+   | ![Dev Gif or Image](images/p_image-1.jpg) | ![Dev Gif or Image](images/p_image-2.jpg) | ![Dev Gif or Image](images/p_image-3.jpg) | ![Dev Gif or Image](images/p_image-4.jpg) |
    |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
    | Bahar Arın                        | Kübra Hande Çendik                        | Mustafa Said Güngör                        | Mehmet Efe Afşar                        |
    | Data Scientist & Web Developer                        | Data Scientist                        | Scrum Master & Web Developer                        | Product Owner & AI Specialist                        |
