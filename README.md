@@ -4,7 +4,9 @@
 
 
 ## Takım İsmi
-<img src="images/image-2.png" width="100">
+<p align="center">
+  <img src="images/image-2.png" width="800">
+</p>
 
 ## Takım Üyeleri
    | ![Dev Gif or Image](images/p_image-1.jpg) | ![Dev Gif or Image](images/p_image-2.jpg) | ![Dev Gif or Image](images/p_image-3.jpg) | ![Dev Gif or Image](images/p_image-4.jpg) |
