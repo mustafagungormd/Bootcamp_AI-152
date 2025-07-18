@@ -126,10 +126,17 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - İkinci sprintin sonunda tamamlanması gereken bütün görevler tamamlanarak 8 puan üzerinden 8 puan alınmış ve hedefe ulaşılmıştır.
 
 ### **Sprint 2 Notes**
-- Yapılacak görevler belirlendi. <br>
+- Bu sprintte web sayfamız tasarlandı.
+- Yapay zekalarımız çalışır hale getirildi ve testlerine başlandı.
+- Web sayfamızın temel bağlantıları yapıalrak lokalde çalışır hale getirildi.
+- Üçüncü sprint için faaliyet planı yapıldı. <br>
 
   **To Do List:**
-- aaa
+- Web sayfasının tasarımı tamamlanacak
+- Chat sayfası tasarlanacak
+- Log in/Sign in sayfası tasarlanacak
+- Yapay zekanın Chat sayfasına bağlantısı yapılacak
+- Log in/Sign in sayfası çalışır hale getirilecek
 
 ### **Sprint 2 Board**
    | ![Sprint Board 2](images/image-12.png) |
