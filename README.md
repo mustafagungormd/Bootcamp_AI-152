@@ -124,8 +124,8 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    | ![Sprint 2](images/image-11.png) |
    |:---------------------------------:|
 
-- Puan tamamlama mantığı: 2. sprint için toplam puanın 8 olmasına karar verildi. Sprintteki her görevin puanı 1 olarak belirlendi.
-- İkinci sprintin sonunda tamamlanması gereken bütün görevler tamamlanarak 8 puan üzerinden 8 puan alınmış ve hedefe ulaşılmıştır.
+- Puan tamamlama mantığı: 2. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı iş yükü ile orantılı olarak belirlendi.
+- İkinci sprintin sonunda tamamlanması gereken bütün görevler tamamlanarak 10 puan üzerinden 10 puan alınmış ve hedefe ulaşılmıştır.
 
 ### **Sprint 2 Notes**
 - Bu sprintte web sayfamız tasarlandı.
@@ -220,7 +220,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
  ### **Sprint Retrospective**
-- Sprint 2 sonunda ulaşılan skor 8/8 oldu.
+- Sprint 2 sonunda ulaşılan skor 10/10 oldu.
 - Web sayfası lokalde çalşır hale getirildi
 - Oturum açma sayfası ve altyapısı bağlandı.
 - Chat sayfası hazırlandı ve yapay zekabağlantısı sağlandı.
