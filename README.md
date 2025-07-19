@@ -12,7 +12,7 @@
    | ![Dev Gif or Image](images/p_image-1.jpg) | ![Dev Gif or Image](images/p_image-2.jpg) | ![Dev Gif or Image](images/p_image-3.jpg) | ![Dev Gif or Image](images/p_image-4.jpg) |
    |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
    | Bahar Arın                        | Kübra Hande Çendik                        | Mustafa Said Güngör                        | Mehmet Efe Afşar                        |
-   | Data Scientist & Web Developer                        | Data Scientist                        | Scrum Master & Web Developer                        | Product Owner & AI Specialist                        |
+   | Data Scientist                        | Data Scientist                        | Scrum Master                        | Product Owner                        |
 
 
 ## Ürün İsmi
