@@ -151,15 +151,15 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
    | ![WhatsApp](images/image-13.png) |
    |:---------------------------------:|
-   | WhatsApp meeting logs                        |
+   | WhatsApp toplantı kayıtları                        |
 
    | ![Google Meet](images/image-14.png) |
    |:---------------------------------:|
-   | Google Meet meeting logs                        |
+   | Google Meet toplantı kayıtları                        |
 
    | ![Trello](images/image-15.png) |
    |:---------------------------------:|
-   | Trello meeting logs                        |
+   | Trello toplantı kayıtları                        |
 
   
 ### **Development Progress**
