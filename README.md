@@ -169,44 +169,6 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    |:---------------------------------:|:-----------------------------------:|
    | AI Chat Arayüzü                      | Yenilenmiş Anasayfa                       |
 
-* aaa
-
-   | ![Dev Gif or Image](images/image-18.gif) | ![Dev Gif or Image](images/image-19.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   | aaa                       | bbb                      |
-
-* aaa
-
-   | ![Dev Gif or Image](images/image-20.png) |
-   |:---------------------------------:|
-   | aaa                        |
-
-* aaa
-
-   | ![Dev Gif or Image](images/image-21.gif) | 
-   |:---------------------------------:|
-   | Dev Gif or Image                       |
-
-* aaa
-
-   | ![Dev Gif or Image](images/image-22.png) |
-   |:---------------------------------:|
-   | aaa                       |
-
-   | ![Dev Gif or Image](images/image-23.png) |
-   |:---------------------------------:|
-   | aaa                       |
-
-   | ![Dev Gif or Image](images/image-24.png) |
-   |:---------------------------------:|
-   | aaa                       |
-
-* aaa
-
-   | ![Dev Gif or Image](images/image-25.png) |
-   |:---------------------------------:|
-   | aaa                      |
-
 
  ### **Sprint Review**
 - Sprint 2’in sonunda, ekip bir araya geldi ve Sprint gözden geçirildi.
