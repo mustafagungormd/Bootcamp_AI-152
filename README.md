@@ -147,7 +147,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 ### **Daily Scrum**
 
-* aaa
+* Günlük scrum toplantıları WhatsApp ve Google Meet üzerinden yapıldı. Google Meet toplantı notları, Trello'daki "Meeting Logs" listesine kartlar olarak eklendi.
 
    | ![WhatsApp](images/image-13.png) |
    |:---------------------------------:|
