@@ -190,3 +190,68 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 
 ---
+
+# **SPRINT 3**
+
+   | ![Sprint 3](images/image-18.png) |
+   |:---------------------------------:|
+
+- Puan tamamlama mantığı: 3. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı 1 olarak belirlendi.
+- Üçüncü sprintin sonunda tamamlanması gereken 10 puan üzerinden 4 puan alınarak hedefe ulaşılamamıştır.
+
+### **Sprint 3 Notes**
+- Ürünün hayati eksik ve hatalrı değerlendirilip ufak iyileştirmeler denendi
+- Ürün mevcut eksik ve hataları ile lokalde çalışır hale getirildi.
+- Ürünün bootcamp sonrası akıbeti değerlendirildi. <br>
+
+  **Yapılacaklar:**
+- Register bağlantıları çalışır hale getirilecek
+- AI cevapları yeterli seviyeye getirilecek
+- AI cevaplarının arayüz çıktıları çalışır hale getirilecek
+- Ürün lokalde çalışabilir hale getirilecek.
+
+### **Sprint 2 Board**
+   | ![Sprint Board 2](images/image-19.png) |
+   |:---------------------------------:|
+   | Sprint 3 board                         |
+
+### **Daily Scrum**
+
+* Günlük scrum toplantıları WhatsApp ve Google Meet üzerinden yapıldı. Google Meet toplantı notları, Trello'daki "Meeting Logs" listesine kartlar olarak eklendi.
+
+   | ![WhatsApp](images/image-20.png) |
+   |:---------------------------------:|
+   | WhatsApp toplantı kayıtları                        |
+
+   | ![Google Meet](images/image-21.png) |
+   |:---------------------------------:|
+   | Google Meet toplantı kayıtları                        |
+
+   | ![Trello](images/image-22.png) |
+   |:---------------------------------:|
+   | Trello toplantı kayıtları                        |
+
+  
+### **Development Progress**
+* Yapay zeka asistanın chat arayüzü tasarlandı ve ana sayfa tasarımı geliştirildi.
+
+   | ![Dev Gif or Image](images/image-23.gif) |
+   |:---------------------------------:|
+   | xxx                      |
+
+
+ ### **Sprint Review**
+- Sprint 3’ün sonunda, ekip bir araya geldi ve Sprint gözden geçirildi.
+- Planlanan tüm görevler tamamlandı.
+- Ortaya çıkan ürünün ekipçe incelemesi yapıldı ve proje başında ortaya çıkarmayı hedeflediğimiz ürüne göre çok yetersiz olduğu gözlemlendi.
+- Bootcamp sonunda ürünün geliştirme sürecine devam edilip edilmeyeceği konuşuldu ve projenin akıbeti karara bağlandı.
+- **Sprint Review participants:** Bahar Arın, Kübra Hande Çendik, Mustafa Said Güngör, Mehmet Efe Afşar
+
+
+
+
+ ### **Sprint Retrospective**
+- Sprint 3 sonunda ulaşılan skor 4/10 oldu.
+- 3. sprint boyunca ekipte zaruri nedenlerden ötürü ciddi aksaklıklar yaşandı.
+- Proje sürecinde yaşanan aksaklıklar ve bu aksaklıkların projeye olan tekileri değerlendirildi.
+- Projenin son hali ile paylaşılmasına karar verildi.
