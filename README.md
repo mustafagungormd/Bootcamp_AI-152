@@ -140,10 +140,10 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Yapay zekanın Chat sayfasına bağlantısı yapılacak
 - Log in/Sign in sayfası çalışır hale getirilecek
 
-### **Sprint 2 Board**
+### **Sprint 3 Board**
    | ![Sprint Board 2](images/image-12.png) |
    |:---------------------------------:|
-   | Sprint 2 board                         |
+   | Sprint 3 board                         |
 
 ### **Daily Scrum**
 
@@ -252,6 +252,6 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
  ### **Sprint Retrospective**
 - Sprint 3 sonunda ulaşılan skor 4/10 oldu.
-- 3. sprint boyunca ekipte zaruri nedenlerden ötürü ciddi aksaklıklar yaşandı.
+- Sprint 3 boyunca ekipte zaruri nedenlerden ötürü ciddi aksaklıklar yaşandı.
 - Proje sürecinde yaşanan aksaklıklar ve bu aksaklıkların projeye olan tekileri değerlendirildi.
 - Projenin son hali ile paylaşılmasına karar verildi.
