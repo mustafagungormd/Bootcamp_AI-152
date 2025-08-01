@@ -193,7 +193,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 # **SPRINT 3**
 
-   | ![Sprint 3](images/image-18.png) |
+   | ![Sprint 3](images/sprint3-1.png) |
    |:---------------------------------:|
 
 - Puan tamamlama mantığı: 3. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı 1 olarak belirlendi.
@@ -211,7 +211,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Ürün lokalde çalışabilir hale getirilecek.
 
 ### **Sprint 2 Board**
-   | ![Sprint Board 2](images/image-19.png) |
+   | ![Sprint Board 2](images/sprint3-2.png) |
    |:---------------------------------:|
    | Sprint 3 board                         |
 
@@ -219,15 +219,15 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 * Günlük scrum toplantıları WhatsApp ve Google Meet üzerinden yapıldı. Google Meet toplantı notları, Trello'daki "Meeting Logs" listesine kartlar olarak eklendi.
 
-   | ![WhatsApp](images/image-20.png) |
+   | ![WhatsApp](images/sprint3-3.png) |
    |:---------------------------------:|
    | WhatsApp toplantı kayıtları                        |
 
-   | ![Google Meet](images/image-21.png) |
+   | ![Google Meet](images/sprint3-4.png) |
    |:---------------------------------:|
    | Google Meet toplantı kayıtları                        |
 
-   | ![Trello](images/image-22.png) |
+   | ![Trello](images/sprint3-5.png) |
    |:---------------------------------:|
    | Trello toplantı kayıtları                        |
 
@@ -235,7 +235,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 ### **Development Progress**
 * Yapay zeka asistanın chat arayüzü tasarlandı ve ana sayfa tasarımı geliştirildi.
 
-   | ![Dev Gif or Image](images/image-23.gif) |
+   | ![Dev Gif or Image](images/sprint3-6) |
    |:---------------------------------:|
    | xxx                      |
 
