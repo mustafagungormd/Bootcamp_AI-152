@@ -140,10 +140,10 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Yapay zekanın Chat sayfasına bağlantısı yapılacak
 - Log in/Sign in sayfası çalışır hale getirilecek
 
-### **Sprint 3 Board**
+### **Sprint 2 Board**
    | ![Sprint Board 2](images/image-12.png) |
    |:---------------------------------:|
-   | Sprint 3 board                         |
+   | Sprint 2 board                         |
 
 ### **Daily Scrum**
 
@@ -210,8 +210,8 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - AI cevaplarının arayüz çıktıları çalışır hale getirilecek
 - Ürün lokalde çalışabilir hale getirilecek.
 
-### **Sprint 2 Board**
-   | ![Sprint Board 2](images/sprint3-2.png) |
+### **Sprint 3 Board**
+   | ![Sprint Board 3](images/sprint3-2.png) |
    |:---------------------------------:|
    | Sprint 3 board                         |
 
