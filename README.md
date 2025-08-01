@@ -193,7 +193,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 # **SPRINT 3**
 
-   | ![Sprint 3](images/sprint3-1.png) |
+   | ![Sprint 3](images/sprint3-1a.png) |
    |:---------------------------------:|
 
 - Puan tamamlama mantığı: 3. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı 1 olarak belirlendi.
