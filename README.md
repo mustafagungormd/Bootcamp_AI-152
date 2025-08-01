@@ -196,12 +196,12 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    | ![Sprint 3](images/sprint3-1a.png) |
    |:---------------------------------:|
 
-- Puan tamamlama mantığı: 3. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı 1 olarak belirlendi.
+- Puan tamamlama mantığı: 3. sprint için tamamlanması gereken puan 10 olarak belirlendi. Sprintteki her görevin puanı 2 olarak belirlendi.
 - Üçüncü sprintin sonunda tamamlanması gereken 10 puan üzerinden 4 puan alınarak hedefe ulaşılamamıştır.
 
 ### **Sprint 3 Notes**
-- Ürünün hayati eksik ve hatalrı değerlendirilip ufak iyileştirmeler denendi
-- Ürün mevcut eksik ve hataları ile lokalde çalışır hale getirildi.
+- Ürünün hayati eksik ve hataları değerlendirilip ufak iyileştirmeler denendi.
+- Ürün, mevcut eksik ve hataları ile lokalde çalışır hale getirildi.
 - Ürünün bootcamp sonrası akıbeti değerlendirildi. <br>
 
   **Yapılacaklar:**
