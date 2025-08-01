@@ -231,14 +231,6 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
    |:---------------------------------:|
    | Trello toplantı kayıtları                        |
 
-  
-### **Development Progress**
-* Yapay zeka asistanın chat arayüzü tasarlandı ve ana sayfa tasarımı geliştirildi.
-
-   | ![Dev Gif or Image](images/sprint3-6) |
-   |:---------------------------------:|
-   | xxx                      |
-
 
  ### **Sprint Review**
 - Sprint 3’ün sonunda, ekip bir araya geldi ve Sprint gözden geçirildi.
