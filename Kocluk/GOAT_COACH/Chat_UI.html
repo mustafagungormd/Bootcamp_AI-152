@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GPT UI Klonu</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #212121;
+      color: #fff;
+      display: flex;
+      height: 100vh;
+    }
+
+    .sidebar {
+      width: 260px;
+      background-color: #212121;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      border-right: 1px solid #303030;
+    }
+
+    .sidebar h2 {
+      font-size: 18px;
+      margin-bottom: 8px;
+    }
+
+    .chat-history {
+      flex: 1;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .chat-item {
+      background-color: #212121;
+      padding: 10px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .chat-item:hover {
+      background-color: #212121;
+    }
+
+    .new-chat {
+      padding: 10px;
+      background-color: #303030;
+      border: none;
+      border-radius: 6px;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .chat-container {
+      flex: 1;
+      padding: 24px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 14px 18px;
+      margin: 10px 0;
+      border-radius: 10px;
+      white-space: pre-wrap;
+    }
+
+    .user-message {
+      background-color: #303030;
+      align-self: flex-end;
+    }
+
+    .bot-message {
+      background-color: #212121;
+      align-self: flex-start;
+    }
+
+    .input-area {
+      display: flex;
+      padding: 20px;
+      background-color: #212121;
+    }
+
+    .input-area input {
+      flex: 1;
+      padding: 14px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      margin-right: 10px;
+      background-color: #303030;
+      color: white;
+    }
+
+    .input-area button {
+      padding: 14px 24px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      background-color: #303030;
+      color: white;
+      cursor: pointer;
+    }
+
+    .input-area input:focus {
+      outline: none;
+    }
+
+    .input-area button:hover {
+      background-color: #d9e9e5;
+    }
+
+    .ana-sayfa-buton {
+      display: inline-block;
+      padding: 12px 20px;
+      background: linear-gradient(135deg, #5a8dee, #003c8f);
+      color: white;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 15px;
+      transition: all 0.3s ease;
+      margin-bottom: 16px;
+      /* Buton ile diğer elemanlar arasına boşluk ekledik */
+    }
+
+    .new-chat:hover,
+    .ana-sayfa-buton:hover {
+      background: #1e88e5;
+      transform: scale(1.03);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="sidebar">
+    <a href="index.html" class="ana-sayfa-buton">← Ana Sayfaya Dön</a>
+    <button class="new-chat" onclick="startNewChat()">+ Yeni Sohbet</button>
+    <h2>Sohbet Geçmişi</h2>
+    <div class="chat-history" id="chat-history"></div>
+  </div>
+
+  <div class="main">
+    <div class="chat-container" id="chat"></div>
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Bir şey yazın..."
+        onkeydown="if(event.key === 'Enter') sendMessage()" />
+      <button onclick="sendMessage()">Gönder</button>
+    </div>
+  </div>
+
+  <script>
+    let chat = document.getElementById("chat");
+    let chatHistory = document.getElementById("chat-history");
+    let currentChat = [];
+    let allChats = [];
+
+    function addMessage(content, isUser) {
+      const msg = document.createElement("div");
+      msg.className = `message ${isUser ? "user-message" : "bot-message"}`;
+      msg.textContent = content;
+      chat.appendChild(msg);
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    function sendMessage() {
+      const input = document.getElementById("user-input");
+      const message = input.value.trim();
+      if (!message) return;
+
+      addMessage(message, true);
+      currentChat.push({ role: "user", content: message });
+      input.value = "";
+
+      // Gerçek API çağrısına uygun yer
+      const botReply = "Bu bir demo cevaptır: " + message;
+      setTimeout(() => {
+        addMessage(botReply, false);
+        currentChat.push({ role: "bot", content: botReply });
+      }, 500);
+    }
+
+    function startNewChat() {
+      if (currentChat.length > 0) {
+        const summary = currentChat[0]?.content?.slice(0, 30) || "Yeni Sohbet";
+        const item = document.createElement("div");
+        item.className = "chat-item";
+        item.textContent = summary;
+        item.onclick = () => loadChat(currentChat);
+        chatHistory.appendChild(item);
+        allChats.push(currentChat);
+      }
+      currentChat = [];
+      chat.innerHTML = "";
+    }
+
+    function loadChat(chatData) {
+      chat.innerHTML = "";
+      currentChat = [...chatData];
+      chatData.forEach((m) => {
+        addMessage(m.content, m.role === "user");
+      });
+    }
+  </script>
+</body>
+
+</html>
