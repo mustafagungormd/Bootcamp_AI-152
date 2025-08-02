@@ -39,10 +39,6 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Üniversite öğrencileri
 - Veliler ve eğitim danışmanları
 
-## Linkler
-- [Check Out Our Product](https://github.com/mustafagungormd/Bootcamp_AI-152)
-- [Watch Trailer on Youtube](https://www.youtube.com/watch?v=LpNVf8sczqU)
-
 ---
 # **SPRINT 1**
 
