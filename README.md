@@ -242,4 +242,4 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 - Sprint 3 sonunda ulaşılan skor 4/10 oldu.
 - Sprint 3 boyunca ekipte zaruri nedenlerden ötürü ciddi aksaklıklar yaşandı.
 - Proje sürecinde yaşanan aksaklıklar ve bu aksaklıkların projeye olan tekileri değerlendirildi.
-- Projenin son hali ile paylaşılmasına karar verildi.
+- Projenin son hali ile [paylaşılmasına](https://www.youtube.com/watch?v=SSob0Jm0fPE) karar verildi.
