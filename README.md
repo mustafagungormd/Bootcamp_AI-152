@@ -215,7 +215,7 @@ Eğitim ve kariyer yolculuğunda bireylere kişiselleştirilmiş rehberlik sunma
 
 * Günlük scrum toplantıları WhatsApp ve Google Meet üzerinden yapıldı. Google Meet toplantı notları, Trello'daki "Meeting Logs" listesine kartlar olarak eklendi.
 
-   | ![WhatsApp](images/sprint3-3.png) |
+   | ![WhatsApp](images/sprint3-3n.png) |
    |:---------------------------------:|
    | WhatsApp toplantı kayıtları                        |
 
